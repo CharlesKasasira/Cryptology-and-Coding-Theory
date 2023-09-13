@@ -22,10 +22,10 @@ Codes ≠ Ciphers ≠ Nomenclators
 
 ### References
 
-[https://www.youtube.com/watch?v=jhXCTbFnK8o](https://www.youtube.com/watch?v=jhXCTbFnK8o)
+[![PBS Cryptography](http://img.youtube.com/vi/9pp9YpginNg/0.jpg)](https://www.youtube.com/watch?v=jhXCTbFnK8o "PBS Cryptography")
 
-[https://www.youtube.com/watch?v=9pp9YpginNg](https://www.youtube.com/watch?v=9pp9YpginNg)
+[![History of Cryptography](http://img.youtube.com/vi/9pp9YpginNg/0.jpg)](https://www.youtube.com/watch?v=9pp9YpginNg "History of Cryptography")
 
-[![alt text](https://www.youtube.com/watch?v=9pp9YpginNg)](https://www.youtube.com/watch?v=9pp9YpginNg "post title")
+<!-- https://img.youtube.com/vi/jhXCTbFnK8o/0.jpg -->
 
-[![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
+<!-- https://img.youtube.com/vi/9pp9YpginNg/0.jpg -->
