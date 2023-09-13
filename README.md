@@ -22,10 +22,6 @@ Codes ≠ Ciphers ≠ Nomenclators
 
 ### References
 
-[![PBS Cryptography](http://img.youtube.com/vi/9pp9YpginNg/0.jpg)](https://www.youtube.com/watch?v=jhXCTbFnK8o "PBS Cryptography")
+[![PBS Cryptography](http://img.youtube.com/vi/jhXCTbFnK8o/0.jpg)](https://www.youtube.com/watch?v=jhXCTbFnK8o "PBS Cryptography")
 
 [![History of Cryptography](http://img.youtube.com/vi/9pp9YpginNg/0.jpg)](https://www.youtube.com/watch?v=9pp9YpginNg "History of Cryptography")
-
-<!-- https://img.youtube.com/vi/jhXCTbFnK8o/0.jpg -->
-
-<!-- https://img.youtube.com/vi/9pp9YpginNg/0.jpg -->
