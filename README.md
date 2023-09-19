@@ -22,6 +22,11 @@ Codes ≠ Ciphers ≠ Nomenclators
 - Enigma Cipher
 - AES (Variant of Rijndae)
 
+
+![letter-frequency](./images/letter-frequency.png)
+
+
+
 ### References
 
 <div style="display: flex; justify-content: space-between;">
