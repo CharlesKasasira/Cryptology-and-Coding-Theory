@@ -27,7 +27,18 @@ Cryptography broken down into:
 - Caesar’s Cipher
 - Vigenere Square
 - Enigma Cipher
-- AES (Variant of Rijndae)
+- AES (Variant of Rijndael)
+
+`Good to Know`: Keyspace is the entire range of values that can be used to construct an individual key
+
+### Types of Encryption
+- Symmetric Encryption (Private encryption)
+    - DES, 3DES
+    - AES (Rijndael)
+    - Blowfish
+- Asymmetric Encryption (Public encryption)
+    - ECC
+    - RSA
 
 
 
@@ -101,6 +112,38 @@ if __name__ == "__main__":
     main()
 
 ```
+
+
+
+# Coding Theory
+(Not directly related to cryptology)
+Coding Theory is the theory of correcting codes
+
+#### Tasks
+- Detect errors
+- Correct errors
+
+#### Coding
+- Source coding
+- Channel coding
+
+`Parity code` in coding theory is a type of error-detecting code that is used to detect errors in data transmission or storage. It involves adding an extra bit (or more) to a block of data to ensure that the total number of bits in the block, including the extra bits, adheres to a specific parity rule. The parity bit only detects errors.
+
+`Channels`: physical medium through which information is stored or transmitted
+
+`Noise`: any unwanted or random interference or distortion that affects the transmission or storage of data e.g. rain, lighting.
+
+### Coding Methods
+- Backward Error Correction
+    - Receiver only detects the errors
+- Forward Error Correction
+    - Receiver corrects a certain amount of errors.
+
+### Channel coding goals
+- fast encoding messages
+- Easy transmission of encoded messages
+- Fast decoding of received messages
+- Maximum transfer of information
 
 
 
