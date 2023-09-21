@@ -11,11 +11,11 @@ Cryptography broken down into:
 - `Subsitition`
 
 ### Codes ≠ Ciphers ≠ Nomenclators
-`Codes`: Codes are systems in which individual words, phrases, or even whole sentences are replaced with specific code words or symbols.
+`Codes`: systems in which individual words, phrases, or even whole sentences are replaced with specific code words or symbols.
 
-`Ciphers`: Ciphers are cryptographic techniques that involve the transformation of individual characters or blocks of characters in a systematic way.
+`Ciphers`: cryptographic techniques that involve the transformation of individual characters or blocks of characters in a systematic way.
 
-`Nomenclators`: Nomenclators are a specific type of code used for secret communication.
+`Nomenclators`: specific type of code used for secret communication.
 
 ### Code Types
 
@@ -32,11 +32,13 @@ Cryptography broken down into:
 
 
 ### Letter frequency
+Letter frequency analysis is a fundamental technique in cryptography used to analyze and break substitution ciphers, particularly monoalphabetic ciphers. It's based on the observation that in most languages, certain letters and combinations of letters appear with different frequencies. forexample in the english language, `e` is the most common letter and `the` is the most common word. [Alpha Frequency](https://raw.githubusercontent.com/hackerb9/gwordlist/master/frequency-alpha-alldicts.txt), related `Google Web Trillion Word Corpus`
+
 ![letter-frequency](./images/letter-frequency.png)
 
 
-#### Assignment
-create a Python program that encrypts and decrypts given text using the Caesar cipher. A user should be prompted for input i.e. the text to encrypt/decrypt and the key (number of shifts to make).
+#### Assignment 2
+Create a Python program that encrypts and decrypts given text using the Caesar cipher. A user should be prompted for input i.e. the text to encrypt/decrypt and the key (number of shifts to make).
 
 ```python
 
