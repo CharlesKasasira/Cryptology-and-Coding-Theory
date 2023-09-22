@@ -1,5 +1,7 @@
 # CSC3114 Cryptology and Coding Theory
 
+![cryptography](./images/cryptograpy.png)
+
 ```
     Cryptology = cryptography + cryptanalysis
 ```
