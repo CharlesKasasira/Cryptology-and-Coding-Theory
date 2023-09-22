@@ -1,6 +1,6 @@
 # CSC3114 Cryptology and Coding Theory
 
-![cryptography](./images/cryptograpy.png)
+![cryptography](./images/cryptography.png)
 
 ```
     Cryptology = cryptography + cryptanalysis
