@@ -34,8 +34,10 @@ Cryptography broken down into:
     - AES (Rijndael)
     - Blowfish
 - Asymmetric Encryption (Public encryption)
-    - ECC
+    - ECC (Elliptic Curve Crytography)
     - RSA
+    - Diffie-Hellman Key Exchange
+    - The ElGamal public-key encryption scheme
 
 
 
@@ -119,11 +121,9 @@ if __name__ == "__main__":
 
 #### Tasks
 - Detect errors
-- Correct errors
+- or even Correct errors
 
-#### Coding
-- Source coding
-- Channel coding
+![Source-channel-coding](./images/coding.png)
 
 `Parity code` in coding theory is a type of error-detecting code that is used to detect errors in data transmission or storage. It involves adding an extra bit (or more) to a block of data to ensure that the total number of bits in the block, including the extra bits, adheres to a specific parity rule. The parity bit only detects errors.
 
