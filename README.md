@@ -1,11 +1,6 @@
 # Cryptology and Coding Theory
 
 ![cryptography](./images/cryptography.png)
-
-```
-    Cryptology = cryptography + cryptanalysis
-```
-
 ![cryptography+cryptanalysis](./images/cryptology-vs-cryptograpy2.png)
 
 Cryptography broken down into:
@@ -147,6 +142,11 @@ Coding Theory is the theory of correcting codes
 - Fast decoding of received messages
 - Maximum transfer of information
 
+
+### Movie Recommendations (Purely entertainment)
+- Beautiful Mind
+- Imitation Game
+- Mr. Robot
 
 
 ### References
