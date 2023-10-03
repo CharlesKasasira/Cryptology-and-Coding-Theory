@@ -6,7 +6,7 @@
     Cryptology = cryptography + cryptanalysis
 ```
 
-![cryptography+cryptanalysis](./images/cryptology-vs-cryptograpy.png)
+![cryptography+cryptanalysis](./images/cryptology-vs-cryptograpy2.png)
 
 Cryptography broken down into:
 - `Transposition`
