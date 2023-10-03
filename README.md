@@ -5,7 +5,7 @@
 
 Cryptography broken down into:
 - `Transposition`
-- `Subsitition`
+- `Substitution`
 
 ### Codes ≠ Ciphers ≠ Nomenclators
 `Codes`: systems in which individual words, phrases, or even whole sentences are replaced with specific code words or symbols.
