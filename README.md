@@ -114,7 +114,8 @@ if __name__ == "__main__":
 
 # Coding Theory
 (Not directly related to cryptology)
-Coding Theory is the theory of correcting codes
+
+**Coding Theory** is a branch of mathematics concerned with *transmitting data across noisy channels* and *recovering the messages*.
 
 #### Tasks
 - Detect errors
