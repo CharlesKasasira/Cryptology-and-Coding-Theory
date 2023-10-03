@@ -1,4 +1,4 @@
-# CSC3114 Cryptology and Coding Theory
+# Cryptology and Coding Theory
 
 ![cryptography](./images/cryptography.png)
 
