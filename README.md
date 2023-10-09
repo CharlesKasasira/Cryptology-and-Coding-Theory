@@ -113,6 +113,8 @@ if __name__ == "__main__":
 ```
 
 
+![morse-code](./images/Morse.png)
+
 
 # Coding Theory
 (Not directly related to cryptology)
