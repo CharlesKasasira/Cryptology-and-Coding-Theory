@@ -22,9 +22,11 @@ Cryptography broken down into:
 ### Common Ciphers
 
 - Caesar’s Cipher
-- Vigenere Square
+- Vigenere Cipher
 - Enigma Cipher
 - AES (Variant of Rijndael)
+
+![vigenere-square](./images/vigenere.png)
 
 `Good to Know`: Keyspace is the entire range of values that can be used to construct an individual key
 
