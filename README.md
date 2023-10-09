@@ -1,14 +1,11 @@
-# CSC3114 Cryptology and Coding Theory
+# Cryptology and Coding Theory
 
-```
-    Cryptology = cryptography + cryptanalysis
-```
-
-![cryptography+cryptanalysis](./images/cryptology-vs-cryptograpy.png)
+![cryptography](./images/cryptography.png)
+![cryptography+cryptanalysis](./images/cryptology-vs-cryptograpy2.png)
 
 Cryptography broken down into:
 - `Transposition`
-- `Subsitition`
+- `Substitution`
 
 ### Codes ≠ Ciphers ≠ Nomenclators
 `Codes`: systems in which individual words, phrases, or even whole sentences are replaced with specific code words or symbols.
@@ -37,8 +34,10 @@ Cryptography broken down into:
     - AES (Rijndael)
     - Blowfish
 - Asymmetric Encryption (Public encryption)
-    - ECC
+    - ECC (Elliptic Curve Crytography)
     - RSA
+    - Diffie-Hellman Key Exchange
+    - The ElGamal public-key encryption scheme
 
 
 
@@ -117,15 +116,14 @@ if __name__ == "__main__":
 
 # Coding Theory
 (Not directly related to cryptology)
-Coding Theory is the theory of correcting codes
+
+**Coding Theory** is a branch of mathematics concerned with *transmitting data across noisy channels* and *recovering the messages*.
 
 #### Tasks
 - Detect errors
-- Correct errors
+- or even Correct errors
 
-#### Coding
-- Source coding
-- Channel coding
+![Source-channel-coding](./images/coding.png)
 
 `Parity code` in coding theory is a type of error-detecting code that is used to detect errors in data transmission or storage. It involves adding an extra bit (or more) to a block of data to ensure that the total number of bits in the block, including the extra bits, adheres to a specific parity rule. The parity bit only detects errors.
 
@@ -145,6 +143,11 @@ Coding Theory is the theory of correcting codes
 - Fast decoding of received messages
 - Maximum transfer of information
 
+
+### Movie Recommendations (Purely entertainment)
+- Beautiful Mind
+- Imitation Game
+- Mr. Robot
 
 
 ### References
