@@ -117,6 +117,8 @@ if __name__ == "__main__":
 
 ![morse-code](./images/Morse.png)
 
+![Applications of public key crypto-systems](./images/applications.png)
+
 
 # Coding Theory
 (Not directly related to cryptology)
